@@ -1,8 +1,15 @@
-# My assignments page:
-This page will contain the files and solutions of each week's assignment.
+# My Assignments Page:
+
+Welcome to my assignments repository!
+Here I will upload my files and solutions to each week's assignment as will be requested. I hope this repository will showcase a nice learning progress
+
 
 ## Weekly assignments:
-1. Week 1 - Creating the first web page and github page
-2. Week 2 - Python bootcamp, calculating the area and circumference of a circle and a rectangle
+
+### Week 1 - Introduction to Github:
+**Task**: Create the first web page and github page
+
+### Week 2 - Python Bootcamp:
+**Task**: Calculate the area and circumference of a circle and a rectangle in Python and Jupyter notebook.
 
 
