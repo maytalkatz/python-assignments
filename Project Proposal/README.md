@@ -1,4 +1,4 @@
-# Project Proposal: Python Program for Psychometric Data Analysis
+# Python Program for Psychometric Data Analysis
 
 ## Overview
 This project focuses on developing a Python-based program to analyze psychometric data collected from mice engaged in a vibrotactile stimulus detection task. The program will process behavioral data stored in `.mat` files and perform signal detection theory (SDT) analyses. 
